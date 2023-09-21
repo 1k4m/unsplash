@@ -1,0 +1,20 @@
+$theme: #000;
+$white: #fff;
+$yellow: rgba(255, 242, 0, 1);
+$red: #f15151;
+$grey: rgba(189, 189, 189, 1);
+
+:root {
+    --theme: #{$theme};
+    --white: #{$white};
+    --yellow: #{$yellow};
+    --red: #{$red};
+    --grey: #{$grey};
+    
+
+    // Размер шрифтов
+    --fz: 1.5rem;
+   
+    --rad: 0.6rem;
+    --shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.27);
+}
